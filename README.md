@@ -1,1 +1,1 @@
-pwm -> pin 26
+pwm pin -> pin 26
